@@ -1,0 +1,130 @@
+{
+  "header": {
+    "home": "Strona główna",
+    "services": "Usługi",
+    "pricing": "Cennik",
+    "howToStart": "Jak zacząć",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "DIME OFFICE - Poznań",
+    "subtitle": "Profesjonalne Wirtualne Biuro od 2011 roku",
+    "description": "Elastyczne prowadzenie firmy bez konieczności wynajmowania drogiego biura. Prestiżowy adres, obsługa korespondencji i wsparcie administracyjne.",
+    "cta": "Zacznij teraz"
+  },
+  "about": {
+    "title": "Czym jest Wirtualne Biuro?",
+    "text1": "Wirtualne biuro to nowoczesne rozwiązanie dla przedsiębiorców, którzy chcą prowadzić biznes bez konieczności wynajmowania i utrzymywania fizycznego biura.",
+    "text2": "Od 2011 roku DIME OFFICE w Poznaniu zapewnia stabilne, profesjonalne usługi z niezmiennymi cenami i elastyczną ofertą dopasowaną do potrzeb każdego klienta."
+  },
+  "services": {
+    "title": "Nasze Usługi",
+    "address": {
+      "name": "Adres do Rejestracji",
+      "description": "Prestiżowy adres przy ul. Głogowskiej 31/33, gotowy do rejestracji firmy i korespondencji biznesowej."
+    },
+    "mail": {
+      "name": "Obsługa Korespondencji",
+      "description": "Profesjonalna obsługa przychodzących przesyłek, skanowanie dokumentów, przesyłanie na wskazany adres."
+    },
+    "conference": {
+      "name": "Sale Konferencyjne",
+      "description": "Nowoczesne sale do przeprowadzania spotkań i konferencji dla Twoich klientów."
+    },
+    "support": {
+      "name": "Wsparcie Administracyjne",
+      "description": "Profesjonalna obsługa telefoniczna i administracyjna dla Twojej firmy."
+    }
+  },
+  "pricing": {
+    "title": "Cennik",
+    "subtitle": "Stawki netto",
+    "package1": {
+      "name": "Miesięcznie w Umowie Rocznej",
+      "price": "80 zł",
+      "period": "/miesiąc",
+      "features": ["Adres do rejestracji", "Obsługa korespondencji", "5 zł za przesyłanie", "2 zł za skan (do 5 stron)"]
+    },
+    "package2": {
+      "name": "Miesięcznie bez Umowy",
+      "price": "100 zł",
+      "period": "/miesiąc",
+      "features": ["Adres do rejestracji", "Obsługa korespondencji", "5 zł za przesyłanie", "2 zł za skan (do 5 stron)"]
+    },
+    "package3": {
+      "name": "Rocznie bez Skanowania",
+      "price": "699 zł",
+      "period": "/rok",
+      "features": ["Adres do rejestracji", "Obsługa korespondencji", "5 zł za przesyłanie"]
+    },
+    "package4": {
+      "name": "Rocznie ze Skanowaniem",
+      "price": "799 zł",
+      "period": "/rok",
+      "features": ["Adres do rejestracji", "Obsługa korespondencji", "Skanowanie (limit 5 stron)", "5 zł za przesyłanie"]
+    },
+    "package5": {
+      "name": "Rocznie Pełne Skanowanie",
+      "price": "1 099 zł",
+      "period": "/rok",
+      "features": ["Adres do rejestracji", "Obsługa korespondencji", "Pełne skanowanie dokumentów", "5 zł za przesyłanie"]
+    }
+  },
+  "howToStart": {
+    "title": "Jak Zacząć?",
+    "step1": "1. Wybierz Plan",
+    "step1Desc": "Wybierz pakiet usług, który najlepiej pasuje do Twoich potrzeb.",
+    "step2": "2. Wypełnij Formularz",
+    "step2Desc": "Podaj swoje dane i szczegóły firmy.",
+    "step3": "3. Podpisz Umowę",
+    "step3Desc": "Przygotujemy umowę dostosowaną do Twoich wymagań.",
+    "step4": "4. Zacznij Pracę",
+    "step4Desc": "Rozpocznij pracę z profesjonalnym adresem biznesowym.",
+    "form": {
+      "title": "Formularz Wyboru Umowy",
+      "package": "Wybierz Pakiet",
+      "name": "Imię i Nazwisko",
+      "company": "Nazwa Firmy",
+      "email": "Adres Email",
+      "phone": "Numer Telefonu",
+      "message": "Dodatkowe Uwagi",
+      "submit": "Wyślij Wniosek",
+      "success": "Dziękujemy! Twój wniosek został wysłany. Skontaktujemy się z Tobą wkrótce."
+    }
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "q1": "Czy mogę zmienić plan w trakcie umowy?",
+    "a1": "Tak, możemy elastycznie dostosować Twój plan do zmieniających się potrzeb biznesu. Skontaktuj się z nami, aby omówić szczegóły.",
+    "q2": "Jakie są godziny otwarcia biura?",
+    "a2": "Biuro czynne jest od poniedziałku do piątku, w godzinach 8:00 - 16:00.",
+    "q3": "Czy mogę otrzymać dokumenty w innym formacie?",
+    "a3": "Tak, obsługujemy różne formaty przesyłania dokumentów. Skanujemy do plików PDF, wysyłamy mailem lub tradycyjną pocztą.",
+    "q4": "Jaki jest okres wypowiedzenia umowy?",
+    "a4": "Umowy są elastyczne - można wybrać umowę miesięczną bez okresu wiążącego lub umowę roczną ze znižonymi cenami.",
+    "q5": "Czy budynek jest dostępny dla osób niepełnosprawnych?",
+    "a5": "Tak, nasz budynek przy ul. Głogowskiej 31/33 jest w pełni przyjazny osobom niepełnosprawnym.",
+    "why": {
+      "title": "Dlaczego DIME OFFICE?",
+      "reason1": "13+ lat doświadczenia na rynku poznańskim",
+      "reason2": "Stabilne, niezmienne ceny dla naszych klientów",
+      "reason3": "Elastyczne rozwiązania dopasowane do Twoich potrzeb",
+      "reason4": "Prestiżowa lokalizacja w centrum Poznania",
+      "reason5": "Profesjonalna obsługa i wsparcie",
+      "reason6": "Budynek dostępny dla osób niepełnosprawnych"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "address": "ul. Głogowska 31/33, 2 piętro\nPoznań, Polska",
+    "phone": "730 790 100",
+    "email": "krzysztof.kedziora@dimeoffice.pl, katarzyna.kedziora@dimeoffice.pl",
+    "hours": "Pn-Pt: 8:00 - 16:00",
+    "info": "Wejście od strony ul. Głogowskiej. Ochrona pokieruje Cię dalej."
+  },
+  "footer": {
+    "about": "DIME OFFICE - Poznań. Profesjonalne wirtualne biuro od 2011 roku.",
+    "rights": "© 2025 DIME OFFICE. Wszelkie prawa zastrzeżone."
+  }
+}

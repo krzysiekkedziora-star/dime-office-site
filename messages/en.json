@@ -1,0 +1,130 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "howToStart": "How to Start",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "DIME OFFICE - Poznań",
+    "subtitle": "Professional Virtual Office since 2011",
+    "description": "Flexible business management without the need for expensive office space. Prestigious address, mail handling, and administrative support.",
+    "cta": "Get Started"
+  },
+  "about": {
+    "title": "What is a Virtual Office?",
+    "text1": "A virtual office is a modern solution for entrepreneurs who want to run their business without the need to rent and maintain a physical office.",
+    "text2": "Since 2011, DIME OFFICE in Poznań provides stable, professional services with consistent prices and flexible offerings tailored to the needs of each client."
+  },
+  "services": {
+    "title": "Our Services",
+    "address": {
+      "name": "Registration Address",
+      "description": "Prestigious address at ul. Głogowska 31/33, ready for business registration and business correspondence."
+    },
+    "mail": {
+      "name": "Mail Handling",
+      "description": "Professional handling of incoming shipments, document scanning, and forwarding to your specified address."
+    },
+    "conference": {
+      "name": "Conference Rooms",
+      "description": "Modern conference rooms for conducting meetings and conferences with your clients."
+    },
+    "support": {
+      "name": "Administrative Support",
+      "description": "Professional telephone and administrative support for your business."
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Net rates",
+    "package1": {
+      "name": "Monthly in Annual Contract",
+      "price": "80 PLN",
+      "period": "/month",
+      "features": ["Registration address", "Mail handling", "5 PLN per shipment", "2 PLN per scan (up to 5 pages)"]
+    },
+    "package2": {
+      "name": "Monthly without Contract",
+      "price": "100 PLN",
+      "period": "/month",
+      "features": ["Registration address", "Mail handling", "5 PLN per shipment", "2 PLN per scan (up to 5 pages)"]
+    },
+    "package3": {
+      "name": "Annually without Scanning",
+      "price": "699 PLN",
+      "period": "/year",
+      "features": ["Registration address", "Mail handling", "5 PLN per shipment"]
+    },
+    "package4": {
+      "name": "Annually with Scanning",
+      "price": "799 PLN",
+      "period": "/year",
+      "features": ["Registration address", "Mail handling", "Scanning (5 pages limit)", "5 PLN per shipment"]
+    },
+    "package5": {
+      "name": "Annually Full Scanning",
+      "price": "1,099 PLN",
+      "period": "/year",
+      "features": ["Registration address", "Mail handling", "Full document scanning", "5 PLN per shipment"]
+    }
+  },
+  "howToStart": {
+    "title": "How to Get Started?",
+    "step1": "1. Choose Your Plan",
+    "step1Desc": "Select the service package that best fits your needs.",
+    "step2": "2. Fill the Form",
+    "step2Desc": "Provide your data and company details.",
+    "step3": "3. Sign the Agreement",
+    "step3Desc": "We'll prepare an agreement tailored to your requirements.",
+    "step4": "4. Start Working",
+    "step4Desc": "Begin working with a professional business address.",
+    "form": {
+      "title": "Contract Selection Form",
+      "package": "Select Package",
+      "name": "Full Name",
+      "company": "Company Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Additional Comments",
+      "submit": "Submit Application",
+      "success": "Thank you! Your application has been sent. We will contact you soon."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "Can I change my plan during the contract?",
+    "a1": "Yes, we can flexibly adjust your plan to changing business needs. Contact us to discuss the details.",
+    "q2": "What are the office hours?",
+    "a2": "The office is open Monday to Friday, 8:00 AM - 4:00 PM.",
+    "q3": "Can I receive documents in a different format?",
+    "a3": "Yes, we support various document delivery formats. We scan to PDF files, send by email or traditional mail.",
+    "q4": "What is the notice period for terminating the contract?",
+    "a4": "Contracts are flexible - you can choose a month-to-month contract without binding periods or annual contracts with reduced prices.",
+    "q5": "Is the building accessible for disabled persons?",
+    "a5": "Yes, our building at ul. Głogowska 31/33 is fully accessible for disabled persons.",
+    "why": {
+      "title": "Why DIME OFFICE?",
+      "reason1": "13+ years of experience on the Poznań market",
+      "reason2": "Stable, consistent prices for our clients",
+      "reason3": "Flexible solutions tailored to your needs",
+      "reason4": "Prestigious location in the center of Poznań",
+      "reason5": "Professional service and support",
+      "reason6": "Building accessible for disabled persons"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "ul. Głogowska 31/33, 2nd floor\nPoznań, Poland",
+    "phone": "730 790 100",
+    "email": "krzysztof.kedziora@dimeoffice.pl, katarzyna.kedziora@dimeoffice.pl",
+    "hours": "Mon-Fri: 8:00 AM - 4:00 PM",
+    "info": "Entrance from ul. Głogowska. Security will direct you further."
+  },
+  "footer": {
+    "about": "DIME OFFICE - Poznań. Professional virtual office since 2011.",
+    "rights": "© 2025 DIME OFFICE. All rights reserved."
+  }
+}
