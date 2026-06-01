@@ -23,7 +23,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
-      <body className="bg-white">
+      <body className="bg-slate-900 text-slate-100">
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
